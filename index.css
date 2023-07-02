@@ -26,6 +26,7 @@ form {
     padding: 18px 0;
     padding-left: 20px;
     padding-right: 10px;
+    font-size: 18px;
 }
 .inpt:focus{
     border: none;
@@ -67,6 +68,7 @@ ul li button:hover{
         width: calc((100% - 105px) / 1);
         padding: 16px 0;
         padding-left: 20px;
+        font-size: 18px;
     }
 }
 @media (max-width: 600px) {
